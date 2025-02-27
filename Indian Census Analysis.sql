@@ -6,7 +6,7 @@ use census;
 select count(*) from data_1;
 select count(*) from data_2;
 
-# 2. Can I get all records for Maharashtra and West Bengal?
+# 2. What are all the records for Maharashtra and West Bengal?
 
 SELECT 
     *
