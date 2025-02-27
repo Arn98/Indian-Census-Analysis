@@ -22,7 +22,7 @@ SELECT
 FROM
     data_2;
 
-# 4. What id the average growth rate of each state (in percentage)?
+# 4. What is the average growth rate of each state (in percentage)?
 
 SELECT 
     state, AVG(growth) * 100 avg_growth
