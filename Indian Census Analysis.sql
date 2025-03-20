@@ -49,7 +49,7 @@ GROUP BY state
 HAVING ROUND(AVG(literacy), 0) > 90
 ORDER BY avg_literacy_ratio DESC;
 
-# 7. What are the top three states with the highest growth rate?o
+# 7. What are the top three states with the highest growth rate?
 
 
 SELECT 
